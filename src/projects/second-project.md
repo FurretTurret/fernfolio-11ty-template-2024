@@ -1,18 +1,21 @@
 ---
-title: Another NPM Package
-emoji: 💾
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
-date: 2019-01-01T00:00:00.000Z
-summary: This is an NPM package I made
+title: Infinikin
+emoji: " "
+date: 2024-09-05T05:18:25.651Z
+summary: Monster battler with generated monsters
+metaDescription: This is a sample meta description. If one is not present in
+  your page/project's front matter, the default metadata.desciption will be used
+  instead.
 tags:
   - javascript
   - node
 ---
+##### A run-based monster battling randomizer
 
-### Task
+![Screenshot from Infinikin, an in-development monster battling game](/src/assets/img/infinikinscreen.jpg)
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Infinikin is a monster battler with attacks that permanently run out. Each playthrough generates a new pool of monsters, and roguelike-inspired mechanics give players options to make meta-progress across multiple runs. Full development began in June 2022 and is ongoing.
 
-### Solution
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+* I﻿ created the "BattleBoard" system for running turn-based battles. This is inspired by the Blackboard pattern and enables easy implementation of complex, interacting battle effects as well as easy unit testing.
+* I've used Unity's Universal Render Pipeline to achieve textured outline effects on the monsters and environments, as well as to learn more shader techniques.
+* M﻿y monster generator combines static body part assets and texture operations to construct new monsters, using metadata tags to select names, parts, and colors to match each monster's type and role.
