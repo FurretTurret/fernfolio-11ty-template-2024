@@ -15,7 +15,7 @@ tags:
 
 ![Un﻿ity's Game Lobby Sample demonstrated on three clients](/src/assets/img/gamelobbysamplescreen.jpg)
 
-The Game Lobby Sample was co-developed under contract with Unity. I worked with technical artist Jacob Stove-Lorentzen to create a minimal game utilizing an assortment of then-upcoming multiplayer features, with the goal of providing a reference point for developers alongside those features' release.
+The Game Lobby Sample was co-developed under contract with Unity in 2021. I worked with technical artist Jacob Stove-Lorentzen to create a minimal game utilizing an assortment of then-upcoming multiplayer features, with the goal of providing a reference point for developers alongside those features' release.
 
 * We coordinated with other teams to integrate in-development features, including Addressables, Vivox, Remote Config, Cloud Content Delivery, and others. While some of these were not released, we provided valuable feedback by dogfooding their internal releases.
 * We also worked on a larger unreleased project named #SquadGoals, a 5v5 action-sports game similarly using multiple multiplayer features, though it was not completed.
