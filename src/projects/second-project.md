@@ -20,4 +20,4 @@ Infinikin is a monster battler with attacks that permanently run out. Each playt
 * I've used Unity's Universal Render Pipeline to achieve textured outline effects on the monsters and environments, as well as to learn more shader techniques.
 * M﻿y monster generator combines static body part assets and texture operations to construct new monsters at runtime, using metadata tags to select names, parts, and colors to match each monster's type and role. Data-driven operations modify parts further with blendshapes and transform mutations for subtle variety.
 
-S﻿ee more at <https://store.steampowered.com/app/2931760/Infinikin>
+S﻿ee more at <https://store.steampowered.com/app/2931760/Infinikin>.
