@@ -7,7 +7,7 @@ metaDescription: ""
 tags:
   - Unity
 ---
-##### A sample game teaching Unity multiplayer features
+##### A sample game teaching Unity multiplayer features, released in 2021
 
 ![Un﻿ity's Game Lobby Sample demonstrated on three clients](/src/assets/img/gamelobbysamplescreen.jpg)
 
