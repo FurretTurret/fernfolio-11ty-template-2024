@@ -22,3 +22,5 @@ M﻿onster Jaunt was developed as a solo project, with 23 minigames in a variety
 * L﻿ater in development, I found ways to refactor and combine assets for shared use between multiple minigames, increasing the speed at which new minigames could be fully implemented.
 * The low-poly, N64-inspired style provided a means of learning 3D modeling and animation basics, and it made it possible to prioritize a diverse cast instead of generic player characters.
 * This was my first commercial release, with all the lessons learned from that, including Steam integration and platform basics (as well as Discord's storefront at the time), contracting 2D artists for monster art, and working with translators and voice actors.
+
+S﻿ee more at <https://monsterjaunt.com/>.
