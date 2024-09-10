@@ -11,7 +11,7 @@ tags:
   - Steam
   - FMOD
 ---
-##### A﻿ challenging minigame party game with no luck involved, released in 2020
+***A﻿ challenging minigame party game with no luck involved, released in 2020***
 
 ![Monster Jaunt capsule art](/src/assets/img/monsterjauntcapsule.jpg)
 
