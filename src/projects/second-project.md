@@ -10,7 +10,7 @@ tags:
   - FLStudio
   - Steam
 ---
-##### A run-based monster battling randomizer, in-development
+***A run-based monster battling randomizer, in-development***
 
 ![Screenshot from Infinikin, an in-development monster battling game](/src/assets/img/infinikinscreen.jpg)
 
